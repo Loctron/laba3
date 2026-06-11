@@ -1,0 +1,111 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# C extensions
+
+*.so
+
+# Virtual Environment
+
+.venv/
+venv/
+env/
+ENV/
+
+# IDE
+
+.idea/
+.vscode/
+
+# PyCharm
+
+*.iml
+
+# Visual Studio Code
+
+.history/
+
+# Distribution / packaging
+
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Logs
+
+*.log
+
+# Unit test / coverage
+
+.coverage
+.pytest_cache/
+htmlcov/
+
+# SQLite databases
+
+*.db
+*.sqlite
+*.sqlite3
+
+# Project database
+
+data/knowledge_base.db
+
+# OS files
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Qt Designer
+
+*.bak
+
+# Generated files
+
+*.tmp
+*.temp
+
+# MyPy
+
+.mypy_cache/
+
+# Ruff
+
+.ruff_cache/
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Local settings
+
+.env
+.env.*
+
+# Python packaging
+
+pip-wheel-metadata/
+
+# Runtime files
+
+*.pid
+*.seed
+
+# Coverage reports
+
+coverage.xml
+
+# Bytecode
+
+*.pyo
+*.pyd
+
+# Temporary folders
+
+tmp/
+temp/
